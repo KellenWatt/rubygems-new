@@ -1,0 +1,12 @@
+# Ruby-specific 
+*.gem
+
+# Vim swapfiles
+*.swp
+*.swo
+
+# Custom backup format
+.*.*
+
+# File generated for testing, because I'm terribly original
+file.*
