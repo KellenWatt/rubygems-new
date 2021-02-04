@@ -154,7 +154,7 @@ GEMSPEC
 
   def write_license 
     # does nothing at present. Figure this out later
-    # will be specified by option
+    # will be specified by option 
   end
 
   def write_skeleton
